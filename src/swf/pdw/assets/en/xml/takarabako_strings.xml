@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<data locale="ja">
+<data locale="en">
     <string id="lo_a_1">lo_a_1</string>
+    
+    <string id="b_ad_1">b_ad_1</string>
+    <string id="b_ad_2">Item Name</string>
+    <string id="b_ad_3">Number</string>
 </data>

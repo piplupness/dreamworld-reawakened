@@ -7,12 +7,36 @@
     <string id="fr_aa_4">Enter room.</string>
     <string id="fr_aa_5">fr_aa_5</string>
     <string id="fr_aa_6">Check Dream Pal map.</string>
+
+    <string id="b_aa_1">By date</string>
+    <string id="b_aa_2">By name</string>
+    <string id="b_aa_3">By type</string>
+    <string id="b_aa_4">b_aa_4</string>
+    <string id="b_aa_5">b_aa_5</string>
+    <string id="b_aa_6">Treasure Chest</string>
+
     <string id="h_ca_1">PlayerName's Home</string>
     <string id="h_ca_2">Check Footprint Mat.</string>
     <string id="h_ca_3">h_ca_3</string>
     <string id="h_ca_4">h_ca_4</string>
     <string id="h_ca_5">Garden</string>
     <string id="h_ca_6">Share Shelf</string>
+    <string id="h_ca_7">Enter room.</string>
+    <string id="h_ca_8">Footprint Mat</string>
+    <string id="h_ca_9">h_ca_9</string>
+    <string id="h_ca_10">Leave the Pokémon Dream World.</string>
+
+    <string id="h_ea_1">Redecorate</string>
+    <string id="h_ea_2">Check Treasure Chest</string>
+    <string id="h_ea_3">Check Dream Catalogue</string>
+    <string id="h_ea_4">Check Friend Board</string>
+    <string id="h_ea_5">Go outside</string>
+    <string id="h_ea_6">Check Dream Catalogue</string>
+    <string id="h_ea_7">Check Treasure Chest</string>
+    <string id="h_ea_8">Check Friend Board</string>
+    <string id="h_ea_9">Go outside</string>
+    <string id="h_ea_10">Next wall</string>
+
     <string id="h_ha_1">h_ha_1</string>
     <string id="h_ha_2">Dream Bridge</string>
 </data>
