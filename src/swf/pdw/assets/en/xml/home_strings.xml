@@ -51,6 +51,10 @@
     <string id="fr_aa_5">fr_aa_5</string>
     <string id="fr_aa_6">Check Dream Pal map.</string>
 
+    <!-- Misc Dialogue Boxes-->
+    <string id="dialog_32">dialog_32</string>
+    <string id="dialog_35">Close</string>
+
     <!-- Treasure Chest -->
     <string id="b_aa_1">By date</string>
     <string id="b_aa_2">By name</string>
