@@ -29,8 +29,7 @@
 	<string id="dc_aa_6">Back</string>
 	<!--It should go to list of items next but as of time of writing, pressing "Next" (or "Back") softlocks-->
 
-	<!--Machine Translation-->
-	<!--This is placeholder text. Please update if we find the official translation-->
-	<string id="o_az_1">Pokémon Dream World has ended.</string>
+	<!--Leave and stay asleep submenu-->
+	<string id="o_az_1">You have left the Pokémon Dream World.</string>
 
 </data>
