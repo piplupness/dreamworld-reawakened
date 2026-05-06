@@ -110,7 +110,7 @@ def handle_dreamland_top(_query):
             "object_category": randint(0, 1), # 0 - Pokemon, 1 - Pokemon Stay, 2 - Item
             "pokemon": {
                 "pokemon_no": pkmn["pokemon_no"],
-                "form_no": pkmn.get("form_no", None),
+                "form_no": pkmn.get("form_no", "0"),
                 "pokename": pkmn["pokemon_name"]
             },
             "minigame_id": choice([3, 4, 6, 8, 9, 10, 12]),
