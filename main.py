@@ -2,7 +2,6 @@
 import json
 import argparse
 from pathlib import Path
-from bs4 import BeautifulSoup as bs
 from urllib.parse import quote, unquote, parse_qs, urlencode
 
 from server import run
@@ -53,5 +52,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.run_webpage:
+        from bs4 import BeautifulSoup as bs
         inject_htm_playerdata()
+    
     run(port=args.port, debug=args.debug, is_random=args.random)
