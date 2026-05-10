@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<data locale="ja">
-    <string id="lo_a_1">Loading...</string>
+<data locale="it">
+    <string id="lo_a_1">Caricamento</string>
 
     <!--Tree of Dreams Meter-->
-    <string id="y_aa_1">Tree of Dreams</string>
-    <string id="y_aa_2">To the Tree of Dreams&#xD;[画面数] left</string>
-    <string id="y_aa_6">Return to your home.</string>
+    <string id="y_aa_1">Contapassi</string>
+    <string id="y_aa_2">Per l'albero del sogni:&#xD;- [画面数]</string>
+    <string id="y_aa_6">Pagina iniziale</string>
     
     <!--I wanna see if these come up anywhere
     <string id="y_aa_5">Test1</string>
@@ -21,12 +21,12 @@
     <string id="y_aa_15">Test11</string>-->
 
     <!--Tree of Dreams Location-->
-    <string id="t_aa_1">Tree of Dreams</string>
-    <string id="s_aa_2">Return to your home.</string>
+    <string id="t_aa_1">Albero dei sogni</string>
+    <string id="s_aa_2">Pagina iniziale</string>
 
     <!--Island Titles-->
-    <string id="y_za_1">You arrive at the Island of Dreams and decide to explore the Pleasant Forest</string>
-    <string id="y_aa_3">Island of Dreams—Pleasant Forest</string>
+    <string id="y_za_1">Eccoti all'Isola dei sogni. Inizia a esplorare il boschetto.</string>
+    <string id="y_aa_3">Il boschetto dell'Isola del sogni</string>
 
     <string id="y_zc_3">You arrive at the Island of Dreams and decide to explore the Windswept Sky</string>
     <string id="y_aa_5">Island of Dreams—Windswept Sky</string>
@@ -47,46 +47,44 @@
     <string id="y_aa_19">Island of Dreams—Dream Park</string>
 
     <!-- item get -->
-    <string id="y_ai_1">Found: [道具名].</string>
-    <string id="y_aj_1">Put the [道具名] in the Treasure Chest.</string>
+    <string id="y_ai_1">Hai trovato [道具名].</string>
+    <string id="y_aj_1">Hai messo [道具名] nel baule.</string>
 
     <!-- pokemon get -->
-    <string id="y_af_1">Befriended [ポケモン名].</string>
-    <string id="y_af_2">Pokémon Name:</string>
-    <string id="y_af_3">Ability:</string>
-    <string id="y_af_4">Type:</string>
-    <string id="y_af_5">Gender:</string>
-    <string id="y_af_6">Learned moves:</string>
-
-    <string id="y_ah_1">y_ah_1</string> <!-- universal failure message, the opposite of string y_af_1 -->
-    
-    <string id="y_af_7">[ポケモン名] looks happy.</string>
-    <string id="y_ag_9">y_ag_9</string> <!-- looks sad string -->
+    <string id="y_ah_1">[ポケモン名] non c'è più...</string> <!-- failure to befriend --!>
+    <string id="y_af_1">[ポケモン名] è diventato tuo amico!</string> <!-- befriended successfully -->
+    <string id="y_af_2">Pokémon:</string>
+    <string id="y_af_3">Abilità:</string>
+    <string id="y_af_4">Tipo:</string>
+    <string id="y_af_5">Sesso:</string>
+    <string id="y_af_6">Mosse:</string>
+    <string id="y_af_7">[ポケモン名] è felice!</string> <!-- minigame won -->
+    <string id="y_ag_9">[ポケモン名] è triste...</string> <!-- minigame lost/aborted -->
 
     <!-- game header -->
-    <string id="y_ad_1">It's [ポケモン名]!</string>
+    <string id="y_ad_1">È [ポケモン名]!</string>
 
     <!-- game1.swf -->
-    <string id="y_ad_10">[ポケモン名] seems to be searching for a hidden Pokémon.</string>
-    <string id="y_ad_11">Search for a Pokémon with [ポケモン名]?</string>
-    <string id="y_ag_5">y_ag_5</string>
+    <string id="y_ad_10">Qualcuno si è smarrito e&#xD;[ポケモン名] lo sta cercando.</string>
+    <string id="y_ad_11">Vuoi aiutare [ポケモン名] con la ricerca?</string>
+    <string id="y_ag_5">Non hai trovato il Pokémon smarrito.</string>
     <string id="y_ag_6">y_ag_6</string>
 
     <!-- game2.swf -->
-    <string id="y_ad_2">[ポケモン名] looks hungry.</string>
-    <string id="y_ad_4">Scoop ice cream with [ポケモン名]?</string>
+    <string id="y_ad_2">[ポケモン名] sembra avere fame.</string>
+    <string id="y_ad_4">Vuoi fare un gelato assieme a [ポケモン名]?</string>
     <string id="y_ag_1">y_ag_1</string>
     <string id="y_ag_2">y_ag_2</string>
 
     <!-- game3.swf -->
-    <string id="y_ad_7">It looks like [ポケモン名] wants you to fly.</string>
-    <string id="y_ad_8">Enter the Sky Race for [ポケモン名]?</string>
+    <string id="y_ad_7">[ポケモン名] ha voglia di volare.</string>
+    <string id="y_ad_8">Vuoi fare una Corsa aerea con [ポケモン名]?</string>
     <string id="y_ag_3">y_ag_3</string>
     <string id="y_ag_4">y_ag_4</string>
 
     <!-- game4.swf -->
-    <string id="y_ad_13">[ポケモン名] seems interested in playing with Wailord.</string>
-    <string id="y_ad_14">Join [ポケモン名] in playing with Wailord?</string>
+    <string id="y_ad_13">[ポケモン名] vuole giocare sulla schiena di Wailord.</string>
+    <string id="y_ad_14">Vuoi andare da Wailord con [ポケモン名]?</string>
     <string id="y_ag_7">y_ag_7</string>
     <string id="y_ag_8">y_ag_8</string>
 
