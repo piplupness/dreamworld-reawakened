@@ -186,8 +186,7 @@ class CropManager:
                 total_hours = hours_at_last_update + hour
                 plant["kinomi_state"] = min(total_hours // single_stage_time, 4)
 
-                if (plant["dirt_hp"] == 0) and (plant["kinomi_state"] != 4): #remove 1/5th of the berry's max, but no lower than 2 berries
-                    #I am also assuming that plants which are ready to harvest will not lose berry yield
+                if plant["dirt_hp"] == 0: #remove 1/5th of the berry's max, but no lower than 2 berries
                     plant["server"]["yield"] = max(plant["server"]["yield"] - (curr_berry_data["max_yield"] * 0.2), 2)
                 else:
                     plant["dirt_hp"] -= curr_berry_data["drain_rate"]
